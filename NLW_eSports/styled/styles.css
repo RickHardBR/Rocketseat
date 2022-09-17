@@ -1,0 +1,31 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --background: #121214;
+  --white: #FFFFFF;
+  --black: #000000;
+  --channel-list-border: #443E54;
+
+}
+
+body * {
+  font-family: 'inter'
+}
+
+body {
+  background-image: url(../Assets/images/bg.jpg);
+  background-position: top center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-color: var(--background)
+}
+
+h1, h2, p {
+  color: var(--white)
+}
