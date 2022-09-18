@@ -21,7 +21,7 @@ Trilha [Explorer](https://www.notion.so/Explorer-4c14a2c5b69f453e98d08ff44c86523
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 link da gitpage]()
+[🔗 link da gitpage](https://rickhardbr.github.io/Rocketseat/nlw_eSports/)
 
 ## 🛠️ Tecnologias
 
