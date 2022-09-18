@@ -3,7 +3,7 @@ Repositório com os trabalhos da Rocketseat
 
 
 * [Indice](#funciona)
-    * [NLW - eSports](https://github.com/RickHardBR/Rocketseat/tree/rocketseat_nwl_esports/NLW_eSports)
+    * [NLW - eSports](https://github.com/RickHardBR/Rocketseat/tree/rocketseat_nwl_esports)
 
 ## 💛 Contato
 
