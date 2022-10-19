@@ -4,6 +4,7 @@ Repositório com os trabalhos da Rocketseat
 
 * [Indice](#funciona)
     * [NLW - eSports](https://github.com/RickHardBR/Rocketseat/tree/main/nlw_eSports)
+    * [E.LAB - Explorer Lab](https://github.com/RickHardBR/Rocketseat/tree/main/explorer-lab-01)
 
 ## 💛 Contato
 
