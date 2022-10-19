@@ -9,6 +9,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#imagens">imagens</a>
 </p>
 
 <p align="center">
@@ -46,3 +48,19 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+---
+
+<h1 id="imagens">Minhas Modificações durante a aula 01</h1>
+
+![image](https://user-images.githubusercontent.com/89301596/196571704-ffb3263f-0826-4478-aea7-73543d574f2b.png)
+
+![image](https://user-images.githubusercontent.com/89301596/196571843-8eb41329-2dd7-4de6-927b-44221bef598e.png)
+
+![image](https://user-images.githubusercontent.com/89301596/196572395-0d01e56f-3565-43aa-a579-025988549824.png)
+
+![image](https://user-images.githubusercontent.com/89301596/196571902-f0c0c7fb-6de7-4a73-b139-2accaaea1865.png)
+
+![image](https://user-images.githubusercontent.com/89301596/196571977-41ec64d1-72c3-456b-83c3-590fc7bbb96c.png)
+
+![image](https://user-images.githubusercontent.com/89301596/196572269-5fdaf1b9-a900-4594-b853-bcaf32efaed7.png)

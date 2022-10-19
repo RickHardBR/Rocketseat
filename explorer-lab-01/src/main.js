@@ -19,7 +19,7 @@ function setCardType(type) {
     mastercard: ["#DF6F29", "#C69347"],
     nubank: ["#36165c", "#820ad1"],
     bradesco: ["#900b0e", "#bd0619"],
-    american: ["#928f78", "#100418"],
+    american: ["#DAA520", "#100418"],
     default: ["#000000", "#323238"]
   }
 
