@@ -1,4 +1,4 @@
-import "./css/index.css"
+import "./src/css/index.css"
 import IMask from "imask"
 
 /*criei uma const ccBgColorX que pega o DOM - document usar a funcionalidade querySelector que
